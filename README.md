@@ -1,1 +1,1 @@
-# Drone-based-Surveillance-and-Integrated-Health-monitoring
+# Synergizing IoT and Drone Solutions for Advanced Surveillance and Integrated Health Monitoring
